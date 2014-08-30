@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">csViever</string>
+    <string name="album_name"></string>
+    <string name="camera_folder">/DCIM/Camera/</string>
+    <string name="close_alert_title">Выйти из программы?</string>
+    <string name="close_alert_EXIT">ДА</string>
+    <string name="close_alert_CANCEL">НЕТ</string>
+</resources>
